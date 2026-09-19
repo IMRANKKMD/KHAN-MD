@@ -18,7 +18,7 @@ function convertToBool(text, trueValue = 'true') {
 
 export default {
   // ===== BOT CORE SETTINGS =====
-  SESSION_ID: process.env.SESSION_ID || "",
+  SESSION_ID: process.env.SESSION_ID || "566409",
   PREFIX: process.env.PREFIX || ".",
   CHATBOT: process.env.CHATBOT || "off",
   BOT_NAME: process.env.BOT_NAME || "IMRAN-KK",

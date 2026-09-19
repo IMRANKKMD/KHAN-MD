@@ -29,7 +29,7 @@ export default {
  
   // ===== OWNER & DEVELOPER SETTINGS =====
   OWNER_NUMBER: process.env.OWNER_NUMBER || "92342*******",
-  OWNER_NAME: process.env.OWNER_NAME || "Jᴀᴡᴀᴅ TᴇᴄʜX",
+  OWNER_NAME: process.env.OWNER_NAME || "IMRAN-KK",
   SUDO: process.env.SUDO 
     ? process.env.SUDO.split(',').map(s => s.trim()) 
     : ["123@lid"],
@@ -56,7 +56,7 @@ export default {
   // ===== AUTO-RESPONSE SETTINGS =====
   AUTO_REPLY: process.env.AUTO_REPLY || "false",
   AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "false",
-  AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*KHAN MD VIEWED YOUR STATUS 🤖*",
+  AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*IMRAN KK VIEWED YOUR STATUS 🤖*",
   READ_MESSAGE: process.env.READ_MESSAGE || "false",
   REJECT_MSG: process.env.REJECT_MSG || "*📞 ᴄαℓℓ ɴσт αℓℓσωє∂ ιɴ тнιѕ ɴᴜмвєʀ уσυ ∂σɴт нανє ᴘєʀмιѕѕισɴ 📵*",
 
@@ -99,7 +99,7 @@ export default {
   ANTIEDIT_PATH: process.env.ANTIEDIT_PATH || "inbox",
 
   // ===== BOT BEHAVIOR & APPEARANCE =====
-  DESCRIPTION: process.env.DESCRIPTION || "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ Jᴀᴡᴀᴅ TᴇᴄʜX*",
+  DESCRIPTION: process.env.DESCRIPTION || "*IMRAN-KK*",
   AUTO_LIKE_STATUS: process.env.AUTO_LIKE_STATUS || "false",
   AUTO_STATUS_SEEN: process.env.AUTO_STATUS_SEEN || "true",
   AUTO_BIO: process.env.AUTO_BIO || "false",

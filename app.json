@@ -17,7 +17,7 @@
       "value": "."
     },
     "BOT_NAME": {
-      "description": "Your bot name (Default: KHAN-MD)",
+      "description": "Your bot name (Default: IMRAN-KK)",
       "required": false,
       "value": "KHAN-MD"
     },
@@ -179,7 +179,7 @@
     "DESCRIPTION": {
       "description": "Bot description",
       "required": false,
-      "value": "*© Powered by Jᴀᴡᴀᴅ TᴇᴄʜX*"
+      "value": "*© Powered by IMRAN-KK*"
     }
   },
   "buildpacks": [
